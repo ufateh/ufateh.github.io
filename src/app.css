@@ -1,4 +1,10 @@
+@import "tailwindcss";
 @import url('https://fonts.googleapis.com/css?family=Song Myung');
+
 body {
     font-family: 'Song Myung', sans-serif;
+}
+
+@theme {
+    --color-clifford: #da373d;
 }
