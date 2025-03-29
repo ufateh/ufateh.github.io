@@ -172,6 +172,15 @@
   .mt-20 {
     margin-top: calc(var(--spacing) * 20);
   }
+  .flex {
+    display: flex;
+  }
+  .items-center {
+    align-items: center;
+  }
+  .justify-center {
+    justify-content: center;
+  }
   .bg-amber-300 {
     background-color: var(--color-amber-300);
   }
